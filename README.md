@@ -1,4 +1,5 @@
 # From almaciga import this
 
-## TODO
-Create something
+## Indice
+
+- [GoLab 2018](./2018/11/golab2018.md)
